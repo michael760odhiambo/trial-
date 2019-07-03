@@ -3,3 +3,8 @@ h1{
   text-align: center;
   text-shadow: 3px 3px 3px solid blue;
 }
+.class{
+  border-radius: 70px 70px 70px;
+  display: inline;
+  
+}
